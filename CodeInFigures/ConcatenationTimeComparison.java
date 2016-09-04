@@ -1,3 +1,4 @@
+/*
 import java.time.*;
 public class ConcatenationTimeComparison
 {
@@ -28,3 +29,4 @@ public class ConcatenationTimeComparison
          ((endTime - startTime) / FACTOR + " milliseconds"));
    }
 }
+*/
